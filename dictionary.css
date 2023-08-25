@@ -333,6 +333,9 @@ li{
     .search input[type="text"]{
         padding:18px 20px;
     }
+    .form-container{
+        width: 75%;;
+    }
  }
     
 
